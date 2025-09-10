@@ -9,7 +9,6 @@ Boost your QA Workflow with GitHub Copilot
 - สร้าง test case จาก Confluence ด้วย Copilot
 - สร้าง test case จาก UI Figma ด้วย Copilot
 
-
 ## Figma
 
 <https://www.figma.com/design/pkCT6YDfcnEVOOTS2HIDOg/POC-FIGMA-MCP?node-id=0-1&p=f&t=V7WJzJD6AibkXFXE-0>
@@ -17,15 +16,19 @@ Boost your QA Workflow with GitHub Copilot
 # 01-Preparation
 
 ## ตัวอย่างคำสั่งเบื้องต้น
-1 จาก readme.md ช่วยสร้าง jira confluence ให้หน่อย
-2 จาก jira confluence ช่วยสร้าง Epic ให้หน่อย
-3 จาก Epic, jira confluence และ <figma link> สร้าง story ให้หน่อย
-4 จาก jira story <story-no> สร้าง subtask ให้หน่อย
-5 จากไฟล์ KrungThai_TQA_TestCase_Template_Structure อยากให้สร้าง csv จาก jira story <story-no> ให้หน่อย
+- จาก readme.md ช่วยสร้าง jira confluence ให้หน่อย
+- จาก jira confluence ช่วยสร้าง Epic ให้หน่อย
+- จาก Epic, jira confluence และ <figma link> สร้าง story ให้หน่อย
+- จาก jira story <story-no> สร้าง subtask ให้หน่อย
+- จากไฟล์ KrungThai_TQA_TestCase_Template_Structure อยากให้สร้าง csv จาก jira story <story-no> ให้หน่อย
 
+
+# Survey
+
+https://forms.office.com/r/5qm6JD8JSq
 ---
 
-### Confluence (Spec/Requirement)
+# Confluence (Spec/Requirement)
 
 **ชื่อหน้า:** Dashboard
 
