@@ -1,6 +1,6 @@
 # Welcome to Workshop EP3
 
-Boost your QA Workflow with GitHub Copilot
+Boost your Workflow with GitHub Copilot
 
 ## Objective
 

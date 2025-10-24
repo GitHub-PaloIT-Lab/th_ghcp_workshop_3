@@ -1,9 +1,6 @@
 # โครงสร้าง Krungthai Bank TQA Test Case Template
 
 ## ภาพรวมของ Template
-
-ไฟล์ Excel Template นี้เป็นมาตรฐานสำหรับการสร้าง Test Case ของธนาคารกรุงไทย ประกอบด้วย 2 Sheet หลัก:
-
 1. **LOV (List of Values)** - สำหรับเก็บค่าที่ใช้ในการเลือก (Drop-down values)
 2. **TC_Draft** - สำหรับเขียน Test Case ตัวจริง
 
